@@ -16,12 +16,14 @@ function sayHi() {
 }
 ```
 
--------------------------------------------------------
-[Online Markdown Editor]( https://stackedit.io/app#)
 
-<https://stackedit.io/app#>
-
+---
+### Learn From Youtube :blush:
+[Learn Markdown in 30 minutes](https://www.youtube.com/watch?v=bTVIMt3XllM)
+---
 [Complete list of github markdown emoji markup :heart_eyes:](https://gist.github.com/rxaviers/7360908)
+---
+[Online Markdown Editor](https://stackedit.io/app#)
 
 
 

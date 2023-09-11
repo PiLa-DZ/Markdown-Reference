@@ -68,9 +68,10 @@ This link for [facebook]( https://www.facebook.com)
 <fake@example.com>
 
 
-
-
 ---
-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
-
+### Learn From Youtube :blush:
+[Learn Markdown in 30 minutes](https://www.youtube.com/watch?v=bTVIMt3XllM)
+---
+[Complete list of github markdown emoji markup :heart_eyes:](https://gist.github.com/rxaviers/7360908)
+---
 [Online Markdown Editor](https://stackedit.io/app#)
